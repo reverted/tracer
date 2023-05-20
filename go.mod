@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/opentracing/opentracing-go v1.2.0
-	github.com/reverted/ex v0.1.3
+	github.com/reverted/ex v0.1.4
 	github.com/uber/jaeger-client-go v2.30.0+incompatible
 )
 
