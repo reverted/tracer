@@ -1,6 +1,6 @@
 module github.com/reverted/tracer
 
-go 1.17
+go 1.20
 
 require (
 	github.com/opentracing/opentracing-go v1.2.0
