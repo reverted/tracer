@@ -1,10 +1,10 @@
 module github.com/reverted/tracer
 
-go 1.23.0
+go 1.25.0
 
 require (
 	github.com/opentracing/opentracing-go v1.2.0
-	github.com/reverted/ex v0.8.2
+	github.com/reverted/ex v0.8.3
 	github.com/uber/jaeger-client-go v2.30.0+incompatible
 )
 
